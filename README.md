@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://afaqhassankhan.com/](https://afaqhassankhan.com/)
+- 👨‍💻 All of my projects are available at [https://afaqhassankhan.com/projects/](https://afaqhassankhan.com/projects/)
 
 - 💬 Ask me about **React Native | Flutter**
 
