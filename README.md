@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://afaqhassankhan.com/projects/](https://afaqhassankhan.com/projects/)
+- 👨‍💻 All of my projects are available at [https://afaqhassankhan.netlify.app/](https://afaqhassankhan.netlify.app/)
 
 - 💬 Ask me about **React Native | Full-stack**
 
-- 📫 How to reach me **https://afaqhassankhan.com/**
+- 📫 How to reach me **https://afaqhassankhan.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
