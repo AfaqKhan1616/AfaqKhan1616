@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afaq Hassan Khan</h1>
-<h3 align="center">Software developer from Pakistan</h3>
+<h3 align="center">Software developer currently living in ![image](https://github.com/AfaqKhan1616/AfaqKhan1616/assets/29551769/98269420-114c-49fd-8e1e-9ce63120677d)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaqkhan1616&label=Profile%20views&color=0e75b6&style=flat" alt="afaqkhan1616" /> </p>
 
