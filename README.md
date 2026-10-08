@@ -56,7 +56,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwindcss" width="40" height="40"/></a>
 </p> -->
 
-<h1 align="center">Hi 👋, I'm Afaq Hassan Khan</h1>
+<h1 align="center">Hi 👋, I'm Afaq Khan</h1>
 <h3 align="center">Full-Stack & Data Engineer building scalable backends, data pipelines and AI-powered apps ⚙️📊 | Based in Germany 🇩🇪</h3>
 
 <p align="left">
