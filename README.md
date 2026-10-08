@@ -70,11 +70,11 @@
 - 💬 Ask me about **REST APIs & microservices, SQL & data modeling, ETL/ELT pipelines, or full-stack TypeScript**
 - ⚡ Fun fact: I use **Claude Code** and AI coding agents daily to ship production code
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/afaq-hassan-khan-219294105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afaq-hassan-khan" height="30" width="40" /></a>
 <a href="https://instagram.com/afaq_codes_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afaq_codes_" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Data Engineering:</h3>
 <p align="left">
